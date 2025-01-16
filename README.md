@@ -83,11 +83,6 @@ Contributions to the Feeds App are welcome! If you find a bug or want to add a n
 4. Push to your fork: `git push origin feature-name`
 5. Create a pull request to the main repository.
 
-## Future Subscription Plans
-
-- In future updates, the movie streaming application will introduce subscription plans to provide users with different tiers of access and additional features. This will allow users to choose a plan that best suits their preferences and unlock exclusive content.
-- Incorporates testing using Jest and React Testing Library.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
